@@ -7,7 +7,7 @@
 
 **Automated Model Context Protocol (MCP) shell server setup for Ubuntu Noble 24.04**
 
-Connect your Ubuntu system directly to Claude.ai for seamless shell command execution through AI. No more copying and pasting commands - execute shell operations directly from Claude with full remote access capabilities.
+Connect  your Ubuntu system directly to Claude.ai for seamless shell command execution through AI. No more copying and pasting commands - execute shell operations directly from Claude with full remote access capabilities.
 
 ## 🚀 Quick Start
 
